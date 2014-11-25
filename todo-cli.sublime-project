@@ -1,0 +1,34 @@
+{
+	"folders":
+	[
+		// {
+		// 	"follow_symlinks": true,
+		// 	"path": "."
+		// },
+    {
+      "name": "controllers",
+      "path": "app/controllers"
+    },
+    {
+      "name": "models",
+      "path": "app/models"
+    },
+    {
+      "name": "routes",
+      "path": "app/routes"
+    },
+    {
+      "name": "styles",
+      "path": "app/styles",
+      "file_exclude_patterns": ["*.gitkeep"]
+    },
+    {
+      "name": "templates",
+      "path": "app/templates"
+    },
+    {
+      "name": "views",
+      "path": "app/views"
+    }
+	]
+}
